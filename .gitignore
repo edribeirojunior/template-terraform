@@ -10,3 +10,5 @@ PROVIDERS-Samples/AWS/instance-using-module-template/.terraform/modules/modules.
 PROVIDERS-Samples/AWS/instance-using-module-template/.terraform/modules/fe21c74dfc6802782e0190568c39ba4b
 PROVIDERS-Samples/AWS/.terraform/plugins/linux_amd64/terraform-provider-aws_v1.21.0_x4
 PROVIDERS-Samples/AWS/.terraform/plugins/linux_amd64/lock.json
+.gitattributes
+.gitignore
