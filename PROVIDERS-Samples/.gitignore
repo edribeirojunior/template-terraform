@@ -1,0 +1,4 @@
+AWS/.terraform/
+AWS/instance-using-module-template/.terraform/
+AZURE/.terraform/
+TERRAFORM/
